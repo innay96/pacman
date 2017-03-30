@@ -1,12 +1,12 @@
-##Written by Ryan D'souza
+## Written by Ryan D'souza
 
-###Pacman as a Java GUI.
+### Pacman as a Java GUI.
 
-#####Very conservative memory usage (uses bytes, not ints).
+##### Very conservative memory usage (uses bytes, not ints).
 
-#####Pacman.java contains the main method that begins everything.
+##### Pacman.java contains the main method that begins everything.
 
-###Running Instructions (Commandline for Linux/OSX)
+### Running Instructions (Commandline for Linux/OSX)
 
 1. Download all files to the same directory
 
@@ -20,7 +20,7 @@
         java -cp cs015.jar:. Pacman
 
 
-###Running Instructions (IDE)
+### Running Instructions (IDE)
 
 1. Download all the files to the same directory/project
 
@@ -31,7 +31,7 @@
 
 Note: cs015.jar contains a 2D array that represents the board and its contents.
 
-####Email me if you have any questions: dsouzarc@gmail.com
+#### Email me if you have any questions: dsouzarc@gmail.com
 
 I apologize for the poor screenshots. It was a bit difficult to take screenshots while avoiding being eaten by the ghosts.
 
